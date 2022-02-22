@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "build": "jekyll build"
+        "build": "bundle install && npm install && bundle exec jekyll build"
     },
     "devDependencies": {
         "autoprefixer": "^10.4.2",
