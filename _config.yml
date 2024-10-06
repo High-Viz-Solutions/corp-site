@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: High Viz Solutions
-email: info@highviz.solutions
+email: info@highvizsolutions.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bespoke services in the events and information technology spaces.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://highviz.solutions" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://highvizsolutions.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
